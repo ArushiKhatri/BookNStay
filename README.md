@@ -1,3 +1,3 @@
 # BookNStay
-This is the Hotel Booking Website .
-Author- Arushi Khatri
+This is the Hotel Booking Website .<b>
+Author- Arushi Khatri</b>
